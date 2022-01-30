@@ -8,5 +8,5 @@ tags={
 	"Overhaul"
 }
 name="Lower Demotion Time"
-supported_version="3.*"
+supported_version="3.2.2"
 remote_file_id="2110693291"
